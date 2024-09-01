@@ -5,10 +5,10 @@ The Stock Price Predictor explores the use of machine learning to predict stock 
 This project aims to predict future stock prices using Long Short-Term Memory (LSTM) neural networks. LSTMs, a recurrent neural network (RNN), are well-suited for time series data, such as stock prices. The model is trained on historical stock prices and trading volumes to forecast future closing prices.
 
 ## Methodology
-# Model Used: 
+## Model Used: 
 * Long Short-Term Memory (LSTM) Neural Network.
 
-# Tools
+## Tools
 * Keras for model building, with TensorFlow as the backend.
 * Data: Historical stock prices and trading volumes.
 
