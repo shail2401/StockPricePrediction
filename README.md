@@ -1,4 +1,4 @@
-# Project Overview**
+# Project Overview
 The Stock Price Predictor explores the use of machine learning to predict stock prices, leveraging historical stock data to forecast future values.
 
 ## Objective
