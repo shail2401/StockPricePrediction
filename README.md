@@ -24,9 +24,9 @@ This project aims to predict future stock prices using Long Short-Term Memory (L
 
 
 ## **Technologies**
-Python 2.7
-NumPy
-pandas
-Keras
-TensorFlow
-Jupyter Notebook
+* Python 2.7
+* NumPy
+* pandas
+* Keras
+* TensorFlow
+* Jupyter Notebook
