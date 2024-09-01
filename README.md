@@ -1,7 +1,7 @@
-**Project Overview**
+# Project Overview**
 The Stock Price Predictor explores the use of machine learning to predict stock prices, leveraging historical stock data to forecast future values.
 
-**Objective**
+## Objective
 This project aims to predict future stock prices using Long Short-Term Memory (LSTM) neural networks. LSTMs, a recurrent neural network (RNN), are well-suited for time series data, such as stock prices. The model is trained on historical stock prices and trading volumes to forecast future closing prices.
 
 **Methodology**
